@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "75-days-of-code",
+      "description": "My ongoing 75 Days of Code learning and project challenge."
+    },
+    {
+      "repo": "PROJECT_TWO",
+      "description": "Replace with one of your strongest projects."
+    },
+    {
+      "repo": "PROJECT_THREE",
+      "description": "Replace with one of your strongest projects."
+    },
+    {
+      "repo": "PROJECT_FOUR",
+      "description": "Replace with one of your strongest projects."
+    }
+  ]
+}

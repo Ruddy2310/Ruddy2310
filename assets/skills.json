@@ -1,0 +1,33 @@
+{
+  "title": "Rudra's Skill Radar",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 75
+    },
+    {
+      "label": "C++",
+      "value": 65
+    },
+    {
+      "label": "Machine Learning",
+      "value": 65
+    },
+    {
+      "label": "Deep Learning",
+      "value": 60
+    },
+    {
+      "label": "Cybersecurity",
+      "value": 55
+    },
+    {
+      "label": "DSA",
+      "value": 60
+    },
+    {
+      "label": "Git/GitHub",
+      "value": 70
+    }
+  ]
+}
